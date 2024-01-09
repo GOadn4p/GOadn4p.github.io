@@ -1,3 +1,3 @@
-## Configuring Custom Domain for Guthub Pages (NameCheap)
+## Configuring Custom Domain for Github Pages (NameCheap)
 
 Content
