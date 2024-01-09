@@ -60,6 +60,7 @@
 ![image](https://github.com/GOadn4p/GOadn4p.github.io/assets/139599365/5f166dcb-10bd-4d92-9fe3-36fe6011b8aa)
 
 **12.** Navigate to Pages in the sidebar.
+
 ![image](https://github.com/GOadn4p/GOadn4p.github.io/assets/139599365/df611cb4-04b4-4d93-9bde-1b48e0573e44)
 
 
